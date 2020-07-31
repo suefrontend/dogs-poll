@@ -1,4 +1,4 @@
 module.exports = {
-	publicPath: '/dog-poll/',
+	publicPath: '/dogs-poll/',
 	outputDir: 'docs',
 };
